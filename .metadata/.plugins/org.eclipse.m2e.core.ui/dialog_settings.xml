@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\ECLIPSE\ECLIPSE_WORKSPACE\PLAYWRIGHT_DEMO\Playwright_Practice"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com.orangehrm"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="OrangeHRM_Cucumber"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\ECLIPSE\ECLIPSE_WORKSPACE\PlaywrightDemo\PlaywrightDemo"/>
+			<item value="C:\Users\rjena\Documents\Downloads\PlaywrightDemo\PlaywrightDemo"/>
+			<item value="C:\ECLIPSE\ECLIPSE_WORKSPACE\Framework__3_\Framework"/>
+			<item value="C:\ECLIPSE\ECLIPSE_WORKSPACE\Assets\Assets"/>
+			<item value="C:\ECLIPSE\RABI_WORKSPACE\RABI_WORKSPACE\Assets"/>
+			<item value="C:\Users\rjena\Documents\Downloads\DataRead"/>
+			<item value="C:\ECLIPSE\RABI_WORKSPACE\RABI_WORKSPACE"/>
+			<item value="C:\ECLIPSE\RABI_WORKSPACE"/>
+			<item value="C:\ECLIPSE\RABI_WORKSPACE\RABI_WORKSPACE\Code_DataDriven"/>
+			<item value="C:\ECLIPSE\RABI_WORKSPACE\RABI_WORKSPACE\PLAYWRIGHT_DEMO"/>
+			<item value="C:\Users\rjena\Documents\Downloads\RABI_WORKSPACE__2_\RABI_WORKSPACE\PLAYWRIGHT_DEMO\Playwright_Practice"/>
+			<item value="C:\Users\rjena\Documents\Downloads\RABI_WORKSPACE__2_\RABI_WORKSPACE\Code_DataDriven\Driven"/>
+			<item value="C:\Users\rjena\Documents\Downloads\RABI_WORKSPACE__2_\RABI_WORKSPACE\Code_DataDriven"/>
+			<item value="C:\ECLIPSE\ECLIPSE_WORKSPACE\PLAYWRIGHT_DEMO\Playwright_Practice"/>
+			<item value="C:\ECLIPSE\ECLIPSE_WORKSPACE\PLAYWRIGHT_DEMO"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
+		<item key="width" value="480"/>
+		<item key="height" value="533"/>
+		<item key="x" value="528"/>
+		<item key="y" value="53"/>
+	</section>
+	<section name="MavenModuleWizardParentPage">
+		<list key="moduleName">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

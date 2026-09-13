@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-06-05T18:43:20 IST" name="Default suite" finished-at="2026-06-05T18:44:08 IST" duration-ms="47726">
+    <groups>
+    </groups>
+    <test started-at="2026-06-05T18:43:20 IST" name="Default test" finished-at="2026-06-05T18:44:08 IST" duration-ms="47726">
+      <class name="com.saucedemo.tests.SauceDemoHybridRunner">
+        <test-method is-config="true" signature="initAutomationSuite()[pri:0, instance:com.saucedemo.tests.SauceDemoHybridRunner@265adfad]" started-at="2026-06-05T18:43:20 IST" name="initAutomationSuite" finished-at="2026-06-05T18:43:20 IST" duration-ms="286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initAutomationSuite -->
+        <test-method is-config="true" signature="loadDataCache()[pri:0, instance:com.saucedemo.tests.SauceDemoHybridRunner@265adfad]" started-at="2026-06-05T18:43:20 IST" name="loadDataCache" finished-at="2026-06-05T18:43:21 IST" duration-ms="981" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadDataCache -->
+        <test-method signature="executeScenarioRow(java.util.Map)[pri:0, instance:com.saucedemo.tests.SauceDemoHybridRunner@265adfad]" started-at="2026-06-05T18:43:21 IST" name="executeScenarioRow" data-provider="HybridMatrixProvider" finished-at="2026-06-05T18:43:49 IST" duration-ms="27084" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseID=TC_SauceDemo_01, Current_TestCaseID=TC_SauceDemo_01, LastName=Jena, TargetSegment=Premium_Tier_1, FirstName=Sujata, ZipCode=752031}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeScenarioRow -->
+        <test-method signature="executeScenarioRow(java.util.Map)[pri:0, instance:com.saucedemo.tests.SauceDemoHybridRunner@265adfad]" started-at="2026-06-05T18:43:49 IST" name="executeScenarioRow" data-provider="HybridMatrixProvider" finished-at="2026-06-05T18:43:59 IST" duration-ms="10066" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseID=TC_SauceDemo_01, Current_TestCaseID=TC_SauceDemo_01, LastName=Sharma, TargetSegment=Standard_Tier_2, FirstName=Aarav, ZipCode=400001}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeScenarioRow -->
+        <test-method signature="executeScenarioRow(java.util.Map)[pri:0, instance:com.saucedemo.tests.SauceDemoHybridRunner@265adfad]" started-at="2026-06-05T18:43:59 IST" name="executeScenarioRow" data-provider="HybridMatrixProvider" finished-at="2026-06-05T18:44:08 IST" duration-ms="9435" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseID=TC_SauceDemo_01, Current_TestCaseID=TC_SauceDemo_01, LastName=Patel, TargetSegment=Enterprise_Tier_3, FirstName=Meera, ZipCode=380001}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeScenarioRow -->
+        <test-method is-config="true" signature="wrapReportSuite()[pri:0, instance:com.saucedemo.tests.SauceDemoHybridRunner@265adfad]" started-at="2026-06-05T18:44:08 IST" name="wrapReportSuite" finished-at="2026-06-05T18:44:09 IST" duration-ms="1130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrapReportSuite -->
+      </class> <!-- com.saucedemo.tests.SauceDemoHybridRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

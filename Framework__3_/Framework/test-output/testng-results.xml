@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-06-02T17:00:20 IST" name="Default suite" finished-at="2026-06-02T17:00:42 IST" duration-ms="22020">
+    <groups>
+    </groups>
+    <test started-at="2026-06-02T17:00:20 IST" name="Default test" finished-at="2026-06-02T17:00:42 IST" duration-ms="22020">
+      <class name="My.Framework.Tests.LoginTest">
+        <test-method is-config="true" signature="setupReport()[pri:0, instance:My.Framework.Tests.LoginTest@3c41ed1d]" started-at="2026-06-02T17:00:20 IST" name="setupReport" finished-at="2026-06-02T17:00:20 IST" duration-ms="383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupReport -->
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:My.Framework.Tests.LoginTest@3c41ed1d]" started-at="2026-06-02T17:00:20 IST" name="browserSetup" finished-at="2026-06-02T17:00:29 IST" duration-ms="9258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="verifyUserCanLoginWithValidCredentials()[pri:0, instance:My.Framework.Tests.LoginTest@3c41ed1d]" started-at="2026-06-02T17:00:30 IST" name="verifyUserCanLoginWithValidCredentials" description="Verify user is able to log in with valid credentials via Excel data" finished-at="2026-06-02T17:00:41 IST" duration-ms="11004" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserCanLoginWithValidCredentials -->
+        <test-method is-config="true" signature="tearDown(java.lang.reflect.Method)[pri:0, instance:My.Framework.Tests.LoginTest@3c41ed1d]" started-at="2026-06-02T17:00:41 IST" name="tearDown" finished-at="2026-06-02T17:00:42 IST" duration-ms="1109" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void My.Framework.Tests.LoginTest.verifyUserCanLoginWithValidCredentials() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="flushReport()[pri:0, instance:My.Framework.Tests.LoginTest@3c41ed1d]" started-at="2026-06-02T17:00:43 IST" name="flushReport" finished-at="2026-06-02T17:00:43 IST" duration-ms="125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReport -->
+      </class> <!-- My.Framework.Tests.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
